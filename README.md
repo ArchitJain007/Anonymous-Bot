@@ -10,7 +10,7 @@
 <br>
 
 # DEPLOY TO HEROKU
-* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prothinkergang/anonymous-bot)
+* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ArchitJain007/Anonymous-Bot)
 <br><br>
 
 <details>
@@ -44,7 +44,7 @@ CONTRIBUTIONS AND SUGGESTIONS ARE WELCOME !!
 
 
 * ### Support
-   - [@FutureCodesChat](https://t.me/FutureCodesChat)
+   - [@futureXbots](https://t.me/futureXbots)
 
 * ### Thanks to
    - Dan for [Pyrogram](https://github.com/Pyrogram)
